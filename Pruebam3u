@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 xui-id="29607" tvg-id="" tvg-name="24/7 | JURASSIC PARK" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/jurassic-park-logo-historia-parque-jurasico.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | JURASSIC PARK
+http://solutionspremium.net:8080/play/ETGnKhMUrkNCEzXoh4VzZVXPuRvUjLhrScll6qmizz4/ts
+#EXTINF:-1 xui-id="17381" tvg-id="" tvg-name="24/7 | SAW   (ES)" tvg-logo="https://i.imgur.com/vxzkZA9.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 | SAW   (ES)
+http://solutionspremium.net:8080/play/ETGnKhMUrkNCEzXoh4VzZcNY2gmYFK8_T353VJ6RDUE/ts
+#EXTINF:-1 xui-id="29606" tvg-id="" tvg-name="24/7  |  La Purga" tvg-logo="http://img2.rtve.es/v/4943521?w=1600&preview=1547820875364.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7  |  La Purga
+http://solutionspremium.net:8080/play/ETGnKhMUrkNCEzXoh4VzZT7lSm-Qn_ns3HeID_Ly3TE/ts
+#EXTINF:-1 xui-id="29605" tvg-id="" tvg-name="24/7  |  Los originales" tvg-logo="https://uy.emedemujer.com/wp-content/uploads/sites/4/2017/08/the-originals.png" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7  |  Los originales
+http://solutionspremium.net:8080/play/ETGnKhMUrkNCEzXoh4VzZfgRjDFqQ1_G5D36t4R04Wg/ts
+#EXTINF:-1 xui-id="13384" tvg-id="" tvg-name="24/7  |  Teen Titans Go" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81nRWZRLTJL._RI_.jpg" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7  |  Teen Titans Go
+http://solutionspremium.net:8080/play/ETGnKhMUrkNCEzXoh4VzZVESFlzaOrfnx4OYRH3nVx0/ts
